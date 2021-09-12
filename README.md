@@ -1,4 +1,4 @@
-## SVHN
+## SVHN (Street View House Number)
 The dataset link is given below.
 
 **Google Street View House Number(SVHN) Dataset**        **[Link](http://ufldl.stanford.edu/housenumbers/)**
