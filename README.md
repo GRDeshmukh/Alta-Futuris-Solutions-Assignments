@@ -1,4 +1,5 @@
 ## SVHN
+The dataset link is given below.
 **Google Street View House Number(SVHN) Dataset**        **[Link](http://ufldl.stanford.edu/housenumbers/)**
 
  Much similar to MNIST(images of cropped digits), but SVHN contains much more labeled data (over **600,000 images**) with real world problems of recognizing digits and numbers in **natural scene images.**
@@ -10,7 +11,7 @@
 2. 73,257 digits for training, 26,032 digits for testing
 3. Available in two differnet formats
    - Original images with bounding box available for each character (may contain multiple characters in same images).
-   - **MNIST** like 32x32 cropped images having single character in each images.
+   - **MNIST** like 32x32 cropped images having single character in each image.
  
 
 
@@ -31,7 +32,7 @@ Using CNN architecture.
    
    - **`svhn_model.ipynb`**: run the model and report results
     
-### Added 
+### Addition
  ```
 - Confusion metric 
 - Visualization of misclassified and classfied images
@@ -42,7 +43,7 @@ Using CNN architecture.
 From logs we can make out that dropout rate should be higher to learn
 good features as images have lots of others digits image pixels also in it.
 
-So it's get confused more often`
+So it gets confused more often
 ```
 
 **Note:** 
