@@ -41,9 +41,9 @@ Using CNN architecture.
 
 ### Model building and data preprocessing scripts 
 
-   - **`data_preprocess.ipynb`**: preprocess the data
+  Preprocess the data:  **data_preprocess.ipynb**
    
-   - **`svhn_model.ipynb`**: run the model and report results
+  Run the model and report results: **svhn_model.ipynb**
     
 ### New scaled addition
  ```
