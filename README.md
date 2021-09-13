@@ -49,6 +49,6 @@ So it gets confused more often
 
 **Note:** 
 ```
-Above experiment is performed under 4GB RAM and 1GB GPU Memory
+I have performed above experiment under 4GB RAM and 1GB GPU Memory.
 So it was difficult to train it for more steps, and adding more layers in architecture
 ```
