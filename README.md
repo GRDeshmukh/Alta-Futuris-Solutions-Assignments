@@ -37,7 +37,7 @@ Using CNN architecture.
    
    - **`svhn_model.ipynb`**: run the model and report results
     
-### New Addition
+### New scaled addition
  ```
 - Confusion metric 
 - Visualization of misclassified and classfied images
@@ -50,7 +50,7 @@ good features as images have lots of others digits image pixels also in it.
 So it gets confused more often
 ```
 
-**Note:** 
+**Consideration and Note:** 
 ```
 I have performed above experiment under 4GB RAM and 1GB GPU Memory.
 So it was difficult to train it for more steps, and adding more layers in architecture
