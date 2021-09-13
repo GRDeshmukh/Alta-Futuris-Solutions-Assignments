@@ -46,19 +46,20 @@ Using CNN architecture.
   Run the model and report results: **svhn_model.ipynb**
     
 ### New scaled addition
-
+Following is the new addition 
 - Confusion metric 
 - Visualization of misclassified and classfied images
     
 **Dropout rate finding from logs:**
 
-From logs we can make out that dropout rate should be higher to learn
-good features as images have lots of others digits image pixels also in it.
-So it gets confused more often.
+Dropout rate should be higher to learn good features 
+as images have lots of others digits image pixels in it.
+
+That makes it confuse more often.
 
 
 **Consideration and Note:** 
 
-I have performed above experiment under 4GB RAM and 1GB GPU Memory.
-So it was difficult to train it for more steps, and adding more layers in architecture
+Above experiment has been performed under 4GB RAM and 1GB GPU Memory.
+Due to these specifications, it was difficult to train it for more steps and add more layers in architecture.
 
