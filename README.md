@@ -11,6 +11,7 @@ The dataset link is given below.
 
 ## Overview for SVHN dataset:
 
+This is the overview in terms of classes, digits for training and testing as well as data formats
 1. Total 10 Classes, 1 for each digits  *i.e Label '9' for digit 9 and '10' for digit 0.*
 2. For training 73257 digits, For testing 26,032 digits
 3. It is available in two different formats
