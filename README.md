@@ -1,4 +1,4 @@
-## SVHN (Street View House Number)
+## CNN on SVHN (Street View House Number) dataset
 
 **Please check above svhn_model.ipynb and data_preprocess.ipynb files for building Convolutional Neural Network and data preprocessing.**
 
