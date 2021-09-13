@@ -1,4 +1,6 @@
 ## SVHN (Street View House Number)
+
+Please check above svhn_model.ipynb and data_preprocess.ipynb files for building Convolutional Neural Network and data preprocessing.
 The dataset link is given below.
 
 **Google Street View House Number(SVHN) Dataset**        **[Link](http://ufldl.stanford.edu/housenumbers/)**
