@@ -43,11 +43,10 @@ Using CNN architecture.
 - Visualization of misclassified and classfied images
 ```
     
-**Findings:**
+**Dropout rate finding from logs:**
 ```
 From logs we can make out that dropout rate should be higher to learn
 good features as images have lots of others digits image pixels also in it.
-
 So it gets confused more often
 ```
 
