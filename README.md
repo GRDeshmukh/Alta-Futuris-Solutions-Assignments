@@ -2,7 +2,7 @@
 
 **Please check above svhn_model.ipynb and data_preprocess.ipynb files for building Convolutional Neural Network and data preprocessing.**
 
-The Street View House Number (SVHN) is a digit classification benchmark dataset that contains 600000 32×32 RGB images of printed digits (from 0 to 9) cropped from pictures of house number plates. The cropped images are centered in the digit of interest, but nearby digits and other distractors are kept in the image. 
+The **Street View House Number (SVHN)** is a digit classification benchmark dataset that contains 600000 32×32 RGB images of printed digits (from 0 to 9) cropped from pictures of house number plates. The cropped images are centered in the digit of interest, but nearby digits and other distractors are kept in the image. 
 
 The dataset link is given below.
 
