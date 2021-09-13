@@ -15,6 +15,8 @@ The dataset link is given below.
 
 The images lack any contrast normalisation, contain overlapping digits and distracting features which makes it to differ from MNIST.
 
+![download (1)](https://user-images.githubusercontent.com/55298667/133098164-33388ca4-8f8a-4a40-a8c0-04f0bfe1316e.jpg)
+
 It also comes with an additional 531,131 somewhat less difficult samples that can be used as extra training data.
 
 This is the overview in terms of classes, digits for training and testing as well as data formats
