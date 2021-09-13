@@ -6,7 +6,7 @@ The dataset link is given below.
 
 **Google Street View House Number(SVHN) Dataset**        **[Link](http://ufldl.stanford.edu/housenumbers/)**
 
- SVHN contains much more labeled data (over **600,000 images**) with real world problems of recognizing digits and numbers in **natural scene images.**
+ SVHN contains much more labeled data (over **600,000 images**) with real world problems of recognizing digits and numbers in natural scene images.
 
 
 ## Overview for SVHN dataset:
