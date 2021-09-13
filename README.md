@@ -16,7 +16,7 @@ This is the overview in terms of classes, digits for training and testing as wel
 2. For training 73257 digits, For testing 26,032 digits
 3. It is available in two different formats
    - Original images with bounding box available for each character (may contain multiple characters in same images).
-   - **MNIST** like 32x32 cropped images having single character in each image.
+   - 32x32 cropped images like MNIST having single character in each image.
  
 
 
