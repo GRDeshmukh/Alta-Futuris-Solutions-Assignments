@@ -1,17 +1,17 @@
-## CNN on SVHN (Street View House Number) dataset
+## ```CNN on SVHN (Street View House Number) dataset```
 
-**Please check above svhn_model.ipynb and data_preprocess.ipynb files for building Convolutional Neural Network and data preprocessing.**
+**`Please check above svhn_model.ipynb and data_preprocess.ipynb files for building Convolutional Neural Network and data preprocessing.`**
 
 The **Street View House Number (SVHN)** is a digit classification benchmark dataset that contains 600000 32×32 RGB images of printed digits (from 0 to 9) cropped from pictures of house number plates. The cropped images are centered in the digit of interest, but nearby digits and other distractors are kept in the image. 
 
 The dataset link is given below.
 
-**Street View House Number(SVHN) Dataset**        **[Link](http://ufldl.stanford.edu/housenumbers/)**
+**```Street View House Number(SVHN) Dataset```**        **[Link](http://ufldl.stanford.edu/housenumbers/)**
 
  dataset can be seen as similar in flavor to MNIST (e.g., the images are of small cropped digits), but incorporates an order of magnitude more labeled data (over 600,000 digit images) and comes from a significantly real world problem (recognizing digits and numbers in natural scene images)
 
 
-## Standard overview for SVHN dataset:
+## ``Standard overview for SVHN dataset``:
 
 The images lack any contrast normalisation, contain overlapping digits and distracting features which makes it to differ from MNIST.
 
@@ -39,13 +39,13 @@ Using CNN architecture.
 [Train_32x32](http://ufldl.stanford.edu/housenumbers/train_32x32.mat)                     
 [Test_32x32](http://ufldl.stanford.edu/housenumbers/test_32x32.mat)
 
-### Model building and data preprocessing scripts 
+### `Model building and data preprocessing scripts`
 
   Preprocess the data:  **data_preprocess.ipynb**
    
   Run the model and report results: **svhn_model.ipynb**
     
-### New scaled addition
+### `New scaled addition`
 
 - Confusion metric 
 - Visualization of misclassified and classfied images
