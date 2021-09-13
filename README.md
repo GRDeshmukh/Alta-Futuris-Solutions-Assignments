@@ -6,7 +6,7 @@ The dataset link is given below.
 
 **Street View House Number(SVHN) Dataset**        **[Link](http://ufldl.stanford.edu/housenumbers/)**
 
- SVHN contains much more labeled data (over 600,000 images) with real world problems of recognizing digits and numbers in natural scene images.
+ dataset can be seen as similar in flavor to MNIST (e.g., the images are of small cropped digits), but incorporates an order of magnitude more labeled data (over 600,000 digit images) and comes from a significantly real world problem (recognizing digits and numbers in natural scene images)
 
 
 ## Standard overview for SVHN dataset:
