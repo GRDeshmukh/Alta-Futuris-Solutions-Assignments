@@ -30,13 +30,13 @@ Using CNN architecture.
 [Train_32x32](http://ufldl.stanford.edu/housenumbers/train_32x32.mat)                     
 [Test_32x32](http://ufldl.stanford.edu/housenumbers/test_32x32.mat)
 
-### Scripts
+### Model building and data preprocessing scripts 
 
    - **`data_preprocess.ipynb`**: preprocess the data
    
    - **`svhn_model.ipynb`**: run the model and report results
     
-### Addition
+### New Addition
  ```
 - Confusion metric 
 - Visualization of misclassified and classfied images
