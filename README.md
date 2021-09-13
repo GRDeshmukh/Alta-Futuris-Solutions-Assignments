@@ -39,13 +39,13 @@ Using CNN architecture.
 [Train_32x32](http://ufldl.stanford.edu/housenumbers/train_32x32.mat)                     
 [Test_32x32](http://ufldl.stanford.edu/housenumbers/test_32x32.mat)
 
-### `Model building and data preprocessing scripts`
+### Model building and data preprocessing scripts
 
   Preprocess the data:  **data_preprocess.ipynb**
    
   Run the model and report results: **svhn_model.ipynb**
     
-### `New scaled addition`
+### New scaled addition
 
 - Confusion metric 
 - Visualization of misclassified and classfied images
