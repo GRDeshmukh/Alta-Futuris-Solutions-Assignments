@@ -22,9 +22,11 @@ It also comes with an additional 531,131 somewhat less difficult samples that ca
 This is the overview in terms of classes, digits for training and testing as well as data formats
 1. Total 10 Classes, 1 for each digits  *i.e Label '9' for digit 9 and '10' for digit 0.*
 2. For training 73257 digits, For testing 26,032 digits
-3. It is available in two different formats
-   - Original images with bounding box available for each character (may contain multiple characters in same images).
-   - 32x32 cropped images like MNIST having single character in each image.
+3. It is important to note that the data are divided into two format. We are going to use Format 2:
+   
+   **Format 1**: The original, variable-resolution colored house-number images with character level bounding boxes.
+   
+   **Format 2**: The cropped digits (32x32 pixels) which follow the philosophy of the MNIST dataset more closely, but also contain some distracting digits to the sides of the   digit    of interest.
  
 
 
