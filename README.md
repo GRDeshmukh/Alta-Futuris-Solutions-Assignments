@@ -49,7 +49,7 @@ Using CNN architecture.
     
 ### New scaled addition
 Following is the new addition 
-- Confusion metric 
+- Confusion matrix
 - Visualization of misclassified and classfied images
     
 **Dropout rate finding from logs:**
